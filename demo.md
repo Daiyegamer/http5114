@@ -26,3 +26,8 @@ This is an unordered list:
 -item two
 -item three
 
+## Links
+
+This is a link to [my portfolio](https://github.com/Daiyegamer)
+
+
