@@ -55,3 +55,7 @@ function test() {
 | JavaScript  | 7        |
 | CSS         |  9       |
 
+# GitHUb Flavour
+
+> [!Note]
+> This is a note!
