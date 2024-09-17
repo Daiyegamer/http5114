@@ -30,4 +30,7 @@ This is an unordered list:
 
 This is a link to [my portfolio](https://github.com/Daiyegamer)
 
+## Images
+
+![My avatar](Adil.Avatar.jfif )
 
