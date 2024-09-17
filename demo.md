@@ -36,3 +36,22 @@ This is a link to [my portfolio](https://github.com/Daiyegamer)
 
 ## Code
 
+We can put inline code by using tics.
+
+To add an image use an `<img>` tag.
+
+You can add multi-line code by using three tics and the name of the coding language:
+
+```javascript
+function test() {
+    console.log("test");
+}
+```
+## Tables
+
+| Language    | Rating  |
+| --------    | ------   |
+|     HTML    | 5        |
+| JavaScript  | 7        |
+| CSS         |  9       |
+
